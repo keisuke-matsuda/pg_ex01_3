@@ -19,6 +19,10 @@ public class WordCount {
 			br.close();
 			}catch (IOException e){
 				System.out.println(e);
+
+			//sample
+			//sample
+			//sample
 		}
 	}
 
